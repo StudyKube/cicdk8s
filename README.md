@@ -2,6 +2,7 @@
 
 메인 페이지 : https://github.com/StudyKube
 <br>
+
 이 프로젝트는 간단한 API를 가진 테스트용 프로젝트입니다. <br> 
 프로젝트의 목적은 다음과 같습니다:
 1. GitHub Actions를 활용하여 **CI(Continuous Integration)** 구현
