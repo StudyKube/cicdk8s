@@ -2,8 +2,8 @@
 
 이 프로젝트는 간단한 API를 가진 테스트용 프로젝트입니다. <br> 
 프로젝트의 목적은 다음과 같습니다:
-1. GitHub Actions를 활용하여 CI(Continuous Integration) 구현
-2. ArgoCD가 관리하는 Manifest 파일에 GitOps 설정 적용
+1. GitHub Actions를 활용하여 **CI(Continuous Integration)** 구현
+2. ArgoCD가 관리하는 Manifest 파일에 **GitOps** 설정 적용
 
 ### 🔄 프로젝트 흐름
 1. 코드가 GitHub에 **Push**되면 GitHub Actions가 자동으로 이미지를 빌드하고 Docker Hub에 **Push**합니다.
