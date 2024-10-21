@@ -6,7 +6,7 @@
 2. ArgoCD가 관리하는 Manifest 파일에 GitOps 설정 적용
 
 ### 🔄 프로젝트 흐름
-1. 코드가 GitHub에 Push되면 GitHub Actions가 자동으로 이미지를 빌드하고 Docker Hub에 Push합니다.
-2. 해당 이미지를 Manifest 파일에 업데이트합니다.
-3. ArgoCD가 GitOps를 통해 Manifest 파일의 변경 사항을 자동으로 반영
-4. 해당 이미지를 기반으로 KIND 클러스터에 배포
+1. 코드가 GitHub에 **Push**되면 GitHub Actions가 자동으로 이미지를 빌드하고 Docker Hub에 **Push**합니다.
+2. 해당 이미지를 **Manifest 파일**에 업데이트합니다.
+3. ArgoCD가 **GitOps**를 통해 Manifest 파일의 변경 사항을 자동으로 반영
+4. 해당 이미지를 기반으로 **KIND 클러스터**에 배포
