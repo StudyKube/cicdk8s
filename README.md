@@ -1,6 +1,4 @@
 ## GitHub Actions로 이미지 빌드 및 배포, Manifest 파일 업데이트를 통한 GitOps 설정 🖥
-
-메인 페이지 : https://github.com/StudyKube
 <br>
 
 이 프로젝트는 간단한 API를 가진 테스트용 프로젝트입니다. <br> 
